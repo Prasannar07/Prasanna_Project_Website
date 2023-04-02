@@ -19,7 +19,7 @@ sections:
       name: Statistics
     - description: 80%
       icon: python
-      icon_pack: fas
+      icon_pack: fab
       name: Python
     title: Skills
 - block: experience
