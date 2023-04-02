@@ -13,10 +13,6 @@ sections:
       icon: r-project
       icon_pack: fab
       name: R
-    - description: 40%
-      icon: database
-      icon_pack: fas
-      name: SAS
     - description: 100%
       icon: chart-line
       icon_pack: fas
@@ -25,26 +21,6 @@ sections:
       icon: python
       icon_pack: fab
       name: Python
-    - description: 75%
-      icon: chart-bar
-      icon_pack: fas
-      name: Tableau
-    - description: 60%
-      icon: chart-pie
-      icon_pack: fas
-      name: Power BI
-    - description: 80%
-      icon: calculator
-      icon_pack: fas
-      name: JMP
-    - description: 40%
-      icon: database
-      icon_pack: fas
-      name: SQL
-    - description: 90%
-      icon: chart-area
-      icon_pack: fas
-      name: Minitab
     title: Skills
 
 - block: experience
